@@ -2,10 +2,10 @@
 
 ## Installing
 
-_TODO_: Replace the `<github-organization>` with your GitHub organization.
+_TODO_: Replace the `jonatchoum/quarto-jon-thesis-template` with your GitHub organization.
 
 ```bash
-quarto use template <github-organization>/jon_thesis
+quarto use template jonatchoum/quarto-jon-thesis-template
 ```
 
 This will install the format extension and create an example qmd file
